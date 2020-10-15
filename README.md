@@ -10,8 +10,4 @@ This can be done using the following command: g++ snake_v4.cpp -l ncurses (ncurs
 The executable can then be run using the command: ./a.out
 The game will then start (see below for controls). The game will keep running until the snake collides with itself. After that, the program will terminate.
 
-Controls: 
-UP: w
-Down: s
-LEFT: a
-RIGHT: d
+Controls: UP: w, Down: s, LEFT: a, RIGHT: d
